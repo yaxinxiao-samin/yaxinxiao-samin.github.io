@@ -3,18 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Yaxin
+middle_name:
+last_name: Xiao
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  The best way to reach me is by email.
+description: > <strong>Yaxin Xiao</strong> is a Research Assistant Professor in the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic
+  University. Her research lies in the <strong>privacy and security of machine learning</strong>, with a focus on model extraction, membership inference attacks,
+  machine unlearning, and watermarking techniques. Previously, she was a Postdoctoral Fellow supervised by Prof. Qingqing Ye and Prof. Haibo Hu. She received her Ph.D. from PolyU under
+  the supervision of Prof. Haibo Hu, supported by the <strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong>, and received both her B.Eng. and M.Eng. degrees from Zhejiang University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: machine learning privacy, machine learning security, model extraction, membership inference, machine unlearning, model watermarking
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
