@@ -6,7 +6,7 @@ subtitle: Machine Learning Privacy and Security Researcher
 
 profile:
   align: right
-  image: yaxin-profile.jpg
+  image: yaxin-profile-full.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Electrical and Electronic Engineering</p>
