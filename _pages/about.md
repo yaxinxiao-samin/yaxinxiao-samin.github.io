@@ -33,7 +33,7 @@ latest_posts:
   }
 
   .post .profile.float-right {
-    width: min(320px, 38vw);
+    width: min(200px, 24vw);
     margin-left: 2rem;
   }
 
@@ -54,15 +54,15 @@ latest_posts:
   @media (max-width: 768px) {
     .post .profile.float-right {
       width: 100%;
-      max-width: 360px;
+      max-width: 260px;
       margin: 0 auto 1.5rem;
       float: none !important;
     }
   }
 </style>
 
-<p><strong>Yaxin Xiao</strong> is a Research Assistant Professor in the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University. Her research lies in <strong>privacy and security of machine learning</strong>, especially <strong>model extraction</strong>, <strong>membership inference attacks</strong>, <strong>machine unlearning</strong>, <strong>watermarking for intellectual property protection</strong>, and <strong>LLM-agent security</strong>.</p>
+<p><strong>Yaxin Xiao</strong> is a Research Assistant Professor in the <a href="https://www.astaple.com/" target="_blank" rel="noopener noreferrer">ASTAPLE</a> group, Department of Electrical and Electronic Engineering (EEE), at The Hong Kong Polytechnic University. Her research lies in <strong>privacy and security of machine learning</strong>, especially <strong>model extraction</strong>, <strong>membership inference attacks</strong>, <strong>machine unlearning</strong>, <strong>watermarking for intellectual property protection</strong>, and <strong>LLM-agent security</strong>.</p>
 
-<p>Before joining PolyU, she was a Postdoctoral Fellow supervised by Prof. Qingqing Ye and Prof. Haibo Hu. She received her Ph.D. from PolyU under the support of the <strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong>, and earned both her B.Eng. and M.Eng. degrees from Zhejiang University.</p>
+<p>Before joining PolyU, she was a Postdoctoral Fellow supervised by <a href="https://www.qingqingye.net/" target="_blank" rel="noopener noreferrer">Prof. Qingqing Ye</a> and <a href="https://www.polyu.edu.hk/rcpst/People/Prof-HU-Haibo?sc_lang=en" target="_blank" rel="noopener noreferrer">Prof. Haibo Hu</a>. She received her Ph.D. from PolyU under the support of the <strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong>, and earned both her B.Eng. and M.Eng. degrees from Zhejiang University.</p>
 
 <p><strong>Recent venues:</strong> NeurIPS, ICCV, AAAI, IEEE TDSC, ACL, and ICDE. A fuller publication list is available on the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.</p>
