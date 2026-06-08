@@ -10,16 +10,16 @@ contact_note: >
   The best way to reach me is by email.
 description: >
   <strong>Yaxin Xiao</strong> works on the <strong>privacy and security of machine learning</strong>, with a focus on model extraction,
-  membership inference attacks, machine unlearning, and watermarking techniques. She is based in the Department of Electrical and
+  membership inference attacks, machine unlearning, watermarking techniques, and <strong>LLM-agent security</strong>. She is based in the Department of Electrical and
   Electronic Engineering at The Hong Kong Polytechnic University and received her Ph.D. from PolyU under the support of the
   <strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong>.
 footer_text: >
   Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the
   <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
   Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: machine learning privacy, machine learning security, model extraction, membership inference, machine unlearning, model watermarking
+keywords: machine learning privacy, machine learning security, llm-agent security, trustworthy agents, model extraction, membership inference, machine unlearning, model watermarking
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:
 
 url: https://yaxinxiao-samin.github.io # the base hostname & protocol for your site
 baseurl: "" # leave blank for a user site such as <username>.github.io

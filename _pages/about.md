@@ -6,7 +6,7 @@ subtitle: Machine Learning Privacy and Security Researcher
 
 profile:
   align: right
-  image:
+  image: yaxin-profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Electrical and Electronic Engineering</p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Yaxin Xiao works on privacy and security problems in machine learning, with research interests spanning model extraction, membership inference attacks, machine unlearning, and watermarking techniques for model intellectual property protection.
+Yaxin Xiao works on privacy and security problems in machine learning, with research interests spanning model extraction, membership inference attacks, machine unlearning, watermarking for model intellectual property protection, and LLM-agent security.
 
 She received her Ph.D. from The Hong Kong Polytechnic University under the supervision of Prof. Haibo Hu and was supported by the Hong Kong PhD Fellowship Scheme (HKPFS). Before that, she earned both her B.Eng. and M.Eng. degrees from Zhejiang University.
 
@@ -39,3 +39,4 @@ Current research interests:
 - Membership inference and privacy leakage analysis
 - Machine unlearning and verifiable deletion
 - Watermarking and IP protection for ML models
+- LLM-agent security and trustworthy agentic systems
