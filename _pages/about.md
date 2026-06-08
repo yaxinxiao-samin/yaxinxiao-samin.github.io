@@ -27,16 +27,42 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Yaxin Xiao works on privacy and security problems in machine learning, with research interests spanning model extraction, membership inference attacks, machine unlearning, watermarking for model intellectual property protection, and LLM-agent security.
+<style>
+  .post-title .font-weight-bold {
+    font-weight: 400 !important;
+  }
 
-She received her Ph.D. from The Hong Kong Polytechnic University under the supervision of Prof. Haibo Hu and was supported by the Hong Kong PhD Fellowship Scheme (HKPFS). Before that, she earned both her B.Eng. and M.Eng. degrees from Zhejiang University.
+  .post .profile.float-right {
+    width: min(320px, 38vw);
+    margin-left: 2rem;
+  }
 
-Her recent work has appeared at NeurIPS, ICCV, AAAI, and IEEE TDSC. A fuller publication list is available on the [Publications]({{ '/publications/' | relative_url }}) page, and the latest [CV]({{ '/cv/' | relative_url }}) is also available for download.
+  .post .profile.float-right img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
 
-Current research interests:
+  .post .social .contact-icons {
+    font-size: 1.3rem;
+  }
 
-- Model extraction and model stealing attacks
-- Membership inference and privacy leakage analysis
-- Machine unlearning and verifiable deletion
-- Watermarking and IP protection for ML models
-- LLM-agent security and trustworthy agentic systems
+  .post .social .contact-icons a {
+    margin-right: 0.35rem;
+  }
+
+  @media (max-width: 768px) {
+    .post .profile.float-right {
+      width: 100%;
+      max-width: 360px;
+      margin: 0 auto 1.5rem;
+      float: none !important;
+    }
+  }
+</style>
+
+<p><strong>Yaxin Xiao</strong> is a Research Assistant Professor in the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University. Her research lies in <strong>privacy and security of machine learning</strong>, especially <strong>model extraction</strong>, <strong>membership inference attacks</strong>, <strong>machine unlearning</strong>, <strong>watermarking for intellectual property protection</strong>, and <strong>LLM-agent security</strong>.</p>
+
+<p>Before joining PolyU, she was a Postdoctoral Fellow supervised by Prof. Qingqing Ye and Prof. Haibo Hu. She received her Ph.D. from PolyU under the support of the <strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong>, and earned both her B.Eng. and M.Eng. degrees from Zhejiang University.</p>
+
+<p><strong>Recent venues:</strong> NeurIPS, ICCV, AAAI, IEEE TDSC, ACL, and ICDE. A fuller publication list is available on the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.</p>

@@ -9,15 +9,22 @@ last_name: Xiao
 contact_note: >
   The best way to reach me is by email.
 description: >
-  <strong>Yaxin Xiao</strong> works on the <strong>privacy and security of machine learning</strong>, with a focus on model extraction,
-  membership inference attacks, machine unlearning, watermarking techniques, and <strong>LLM-agent security</strong>. She is based in the Department of Electrical and
-  Electronic Engineering at The Hong Kong Polytechnic University and received her Ph.D. from PolyU under the support of the
-  <strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong>.
+  <strong>Yaxin Xiao</strong> is a Research Assistant Professor in the Department
+  of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic
+  University. Her research lies in the <strong>privacy and security of machine
+  learning</strong>, with a focus on <strong>model extraction</strong>,
+  <strong>membership inference attacks</strong>, <strong>machine unlearning</strong>,
+  <strong>watermarking for intellectual property protection</strong>, and
+  <strong>LLM-agent security</strong>. Before joining PolyU, she was a Postdoctoral
+  Fellow supervised by Prof. Qingqing Ye and Prof. Haibo Hu. She received her
+  Ph.D. from PolyU under the support of the <strong>Hong Kong PhD Fellowship
+  Scheme (HKPFS)</strong>, and received both her B.Eng. and M.Eng. degrees from
+  Zhejiang University.
 footer_text: >
   Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the
   <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
   Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: machine learning privacy, machine learning security, llm-agent security, trustworthy agents, model extraction, membership inference, machine unlearning, model watermarking
+keywords: machine learning privacy, machine learning security, llm-agent security, trustworthy agents, model extraction, membership inference, machine unlearning, model watermarking, intellectual property protection
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:
 
@@ -400,7 +407,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
