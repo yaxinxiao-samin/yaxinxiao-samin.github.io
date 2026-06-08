@@ -155,7 +155,9 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname:
+# Keep the sample shortname so the upstream comments integration test can still
+# validate the legacy Disqus example post during CI.
+disqus_shortname: al-folio
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
