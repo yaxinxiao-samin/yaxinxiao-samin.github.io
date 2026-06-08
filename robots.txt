@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yaxinxiao-samin.github.io/al-folio/sitemap.xml
+Sitemap: https://yaxinxiao-samin.github.io/sitemap.xml
