@@ -70,4 +70,4 @@ latest_posts:
 
 <p>Previously, she was a Postdoctoral Fellow at <strong>HK PolyU</strong>, supervised by <a href="https://haibohu.org" target="_blank" rel="noopener noreferrer">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/" target="_blank" rel="noopener noreferrer">Prof. Qingqing Ye</a>. She received her Ph.D. from PolyU under the support of the <strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong>, and earned both her B.Eng. and M.Eng. degrees from <strong>Zhejiang University</strong>.</p>
 
-<p><strong>Recent venues:</strong> NeurIPS, ICCV, AAAI, IEEE TDSC, ACL, and ICDE. A fuller publication list is available on the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.</p>
+<p><strong>Recent venues:</strong> NeurIPS, ICCV, AAAI, IEEE TDSC, ACL, and ICDE. A fuller publication list is available on the <a href="{{ '/publications/' | relative_url }}">Publications</a> page, and a <a href="{{ '/assets/pdf/yaxin-xiao-cv.pdf' | relative_url }}">CV (PDF)</a> is also available.</p>
