@@ -27,8 +27,22 @@ latest_posts:
 ---
 
 <style>
-  .post-title .font-weight-bold {
+  .post-title {
     font-weight: 400 !important;
+    font-family: inherit !important;
+  }
+
+  .post-title .font-weight-bold {
+    font-weight: inherit !important;
+    font-family: inherit !important;
+  }
+
+  .post-title::after {
+    content: "（肖 雅馨）";
+    font-size: 0.7em;
+    font-weight: 400;
+    margin-left: 0.4rem;
+    white-space: nowrap;
   }
 
   .post .profile.float-right {
@@ -66,8 +80,8 @@ latest_posts:
   }
 </style>
 
-<p><strong>Yaxin Xiao</strong> is a Research Assistant Professor in the <a href="https://www.astaple.com/" target="_blank" rel="noopener noreferrer">ASTAPLE</a> group, Department of Electrical and Electronic Engineering (EEE), at <strong>HK PolyU</strong>. Her research lies in <strong>privacy and security of machine learning</strong>, especially <strong>model extraction</strong>, <strong>membership inference attacks</strong>, <strong>machine unlearning</strong>, <strong>watermarking for intellectual property protection</strong>, and <strong>LLM-agent security</strong>.</p>
+<p><strong>Yaxin Xiao</strong> is a Research Assistant Professor in the <a href="https://www.astaple.com/" target="_blank" rel="noopener noreferrer">ASTAPLE</a> group, Department of Electrical and Electronic Engineering (EEE), at <a href="https://www.polyu.edu.hk/" target="_blank" rel="noopener noreferrer"><strong>the Hong Kong Polytechnic University (HK PolyU)</strong></a>. Her research lies in <strong>privacy and security of machine learning</strong>, especially <strong>model extraction</strong>, <strong>membership inference attacks</strong>, <strong>machine unlearning</strong>, <strong>watermarking for intellectual property protection</strong>, and <strong>LLM-agent security</strong>.</p>
 
-<p>Previously, she was a Postdoctoral Fellow at <strong>HK PolyU</strong>, supervised by <a href="https://haibohu.org" target="_blank" rel="noopener noreferrer">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/" target="_blank" rel="noopener noreferrer">Prof. Qingqing Ye</a>. She received her Ph.D. from PolyU under the support of the <strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong>, and earned both her B.Eng. and M.Eng. degrees from <strong>Zhejiang University</strong>.</p>
+<p>Previously, she was a Postdoctoral Fellow at <a href="https://www.polyu.edu.hk/" target="_blank" rel="noopener noreferrer"><strong>HK PolyU</strong></a>, supervised by <a href="https://haibohu.org" target="_blank" rel="noopener noreferrer">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/" target="_blank" rel="noopener noreferrer">Prof. Qingqing Ye</a>. She received her Ph.D. from <a href="https://www.polyu.edu.hk/" target="_blank" rel="noopener noreferrer"><strong>PolyU</strong></a> supervised by <a href="https://haibohu.org" target="_blank" rel="noopener noreferrer">Prof. Haibo Hu</a> under the support of the <strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong>, and earned both her B.Eng. and M.Eng. degrees from <a href="https://www.zju.edu.cn/english/main.htm" target="_blank" rel="noopener noreferrer"><strong>Zhejiang University</strong></a>.</p>
 
 <p><strong>Recent venues:</strong> NeurIPS, ICCV, AAAI, IEEE TDSC, ACL, and ICDE. A fuller publication list is available on the <a href="{{ '/publications/' | relative_url }}">Publications</a> page, and a <a href="{{ '/assets/pdf/yaxin-xiao-cv.pdf' | relative_url }}">CV (PDF)</a> is also available.</p>
